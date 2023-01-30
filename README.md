@@ -21,8 +21,9 @@
 - [Как переключить фокус с одного текстового поля на другое во Flutter](https://www.youtube.com/watch?v=yTj5zD9g_RY)
 <!-- YOUTUBE:END -->
 
-### Languages and Tools:
+### 💻 Languages and Tools:
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react&logoColor=6296CC)
+![React](https://img.shields.io/badge/-Vue-090909?style=for-the-badge&logo=vue&logoColor=6296CC)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
 ![Html](https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=html5&logoColor=)
