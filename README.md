@@ -22,15 +22,6 @@
 <!-- YOUTUBE:END -->
 
 ### 💻 Languages and Tools:
-<!-- ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react&logoColor=6296CC)
-![Vue](https://img.shields.io/badge/-Vue-090909?style=for-the-badge&logo=Vue&logoColor=4FC08D)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
-![Html](https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=html5&logoColor=)
-![Css](https://img.shields.io/badge/-Css-090909?style=for-the-badge&logo=css3&logoColor=1572B2)
-![Sass](https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=sass&logoColor=CC6699)
-![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC) -->
-
 
 <img align="left" alt="HTML5" width="26px" src="./src/img/html.svg" />
 <img align="left" alt="CSS3" width="26px" src="./src/img/css.svg" />
@@ -39,12 +30,23 @@
 <img align="left" alt="JavaScript" width="26px" src="./src/img/jsb.svg" />
 <img align="left" alt="TypeScript" width="26px" src="./src/img/tsb.svg" />
 <img align="left" alt="React" width="26px" src="./src/img/react.svg" />
-<img align="left" alt="Angular" width="26px" src="./src/img/angular.svg" />
+<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+<title>Vue.js</title><path d="M24,1.61H14.06L12,5.16,9.94,1.61H0L12,22.39ZM12,14.08,5.16,2.23H9.59L12,6.41l2.41-4.18h4.43Z"/></svg>
 <img align="left" alt="Node.js" width="26px" src="./src/img/nodejs.svg" />
-<img align="left" alt="MongoDB" width="26px" src="./src/img/mongo.svg" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<!-- ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C) -->
+
+<!-- ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react&logoColor=6296CC)
+![Vue](https://img.shields.io/badge/-Vue-090909?style=for-the-badge&logo=Vue&logoColor=4FC08D)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+![Html](https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=html5&logoColor=)
+![Css](https://img.shields.io/badge/-Css-090909?style=for-the-badge&logo=css3&logoColor=1572B2)
+![Sass](https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=sass&logoColor=CC6699)
+![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC) -->
+
 
 
 
