@@ -1,11 +1,11 @@
 
-### Привет, меня зовут Алишер
+### Hello, my name is Alisher
 
-## Я Frontend разработчик
+## I am a frontend developer
 
-- 💻 Веб разработчик
-- ☀️ Преисполняюсь в своём познании React 
-- 👯 Буду рад любому сотрудничеству и дельному совету
+- 💻 Web developer
+- ☀️ I am filled with my knowledge of React
+- 👯 I will be glad to any cooperation and practical advice
 
 
 
