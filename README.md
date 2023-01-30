@@ -22,7 +22,7 @@
 <!-- YOUTUBE:END -->
 
 ### Languages and Tools:
-![Flutter](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
+![Flutter](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html&logoColor=47C5FB)
 ![Dart](https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=dart&logoColor=097CDB)
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-090909?style=for-the-badge&logo=tensorflow&logoColor=F88C00)
