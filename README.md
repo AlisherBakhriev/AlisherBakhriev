@@ -1,39 +1,31 @@
 
-### Hello, my name is Alisher
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=rtzeg&theme=nord&column=6&margin-w=15&margin-h=15&rank=-?" alt="AlisherBakhriev" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=AlisherBakhriev&label=Profile%20views&color=50546C&style=flat" alt="AlisherBakhriev" /> </p>
 
-## I am a frontend developer
+- 🎓 Сейчас я изучаю **React**
 
-<!-- - 💻 Web developer
-- ☀️ I am filled with my knowledge of React
-- 👯 I will be glad to any cooperation and practical advice -->
+- 💬 Спросите меня о **React, CSS3, HTML5, Javascript**
 
+- 📫 Как со мной связаться **Телеграмма: https://t.me/cntz_001**
 
+<h3 align="left">Языки и инструменты:</h3>
+<p выровнять="влево">
 
-
-
-<p align="center">
- <img  width="600" src="assets/github-snake.svg" style="" alt="snake"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40 "/>   
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height= "40"/>  
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com /devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/ react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 </p>
 
+<div align="center"><img height="auto" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=AlisherBakhriev&theme=black-ice&hide_border=true&stroke =0000&background=0D111730&ring=50546C&fire=50546C&currStreakLabel=50546C" alt="Амин" /></div>
+  <div align="центр">
+    <img alt="значок посетителя" src="https://github-readme-activity-graph.cyclo.app/graph?username=AlisherBakhriev&theme=react&text_color=50546C&bg_color=1e1e1e00&title_color=50546C&line=50546C&border_color=9199BE&hide_border=true&color=50546C ">
+</div>
+<div align="центр">  
+  <img width="50%" height="auto" src="https://github-readme-stats.vercel.app/api?username=AlisherBakhriev&show_icons=true&count_private=true&hide_border=true&title_color=50546C&icon_color=50546C&text_color=c9d1d9&bg_color=1e1e1e00" alt="Статистика Шойры на github" />
+</div>
+<div align="центр">  
 
-### 💻 Languages and Tools:
-
-<img align="left" alt="HTML5" width="26px" src="./src/img/html.svg" />
-<img align="left" alt="CSS3" width="26px" src="./src/img/css.svg" />
-<img align="left" alt="Sass" width="26px" src="./src/img/sass.svg" />
-<img align="left" alt="Gulp" width="26px" src="./src/img/gulpb.svg" />
-<img align="left" alt="JavaScript" width="26px" src="./src/img/jsb.svg" />
-<img align="left" alt="TypeScript" width="26px" src="./src/img/tsb.svg" />
-<img align="left" alt="React" width="26px" src="./src/img/react.svg" />
-<img align="left" alt="Node.js" width="26px" src="./src/img/nodejs.svg" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-
-<br>
-
-
-<!-- ### Socials: -->
-<!-- ![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9) -->
-<!-- ![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000) -->
-<!-- [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/_bakhriev__/) -->
+  <img width="35%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlisherBakhriev&layout=compact&hide_border=true&title_color=50546C&text_color=50546C&bg_color=1e1e1e00 " />
+</div>
+</div>
